@@ -53,8 +53,8 @@ class Student {
   }
   
   // Example usage:
-  const student1 = new Student('Alice Johnson', 'S001');
-  const student2 = new Student('Bob Smith', 'S002');
+  const student1 = new Student('Kagayema Tobio', '2009');
+  const student2 = new Student('Hinata Shoyo', '2010');
   
   const mathClass = new Classroom('Mathematics');
   console.log(mathClass.addStudent(student1)); // Added Alice Johnson to Mathematics class.
